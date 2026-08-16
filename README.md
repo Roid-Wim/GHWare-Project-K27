@@ -26,8 +26,7 @@ The project is currently being rewritten from scratch and is still in active dev
 
 ## License
 
-MT License (You can use it but dont Edit Code And if you edit code and not upload it anywhere then thats fine)
-
+MT License (You can NOT Edit the Code)
 ## Author
 
 **ROID-WIM**
