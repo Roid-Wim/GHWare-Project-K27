@@ -10,7 +10,7 @@ This Version in specific has GUI and a easier Better Look Than the .BAT Version
 * Display system information
 * Disk and storage tools
 * Disk Utilities
-* 
+* And More Features will be Added In the Future 
 
 ## Current Status
 Its Currently Work In Progress (WIP) this Project is Also being Developed alongside My Horror Game Made with Unity 
