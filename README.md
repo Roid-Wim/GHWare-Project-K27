@@ -1,4 +1,6 @@
 # YellowBerry Project K27 GoodHardWare (PRT Rebranded and better)
+<img width="852" height="555" alt="Screenshot 2026-10-20 063757" src="https://github.com/user-attachments/assets/1387990b-edc3-4ebc-bffb-6d58fd2ef322" />
+
 > ⚠️ **Project Status:** WIP
 GHware is the Improved and better version made By Roid.wim
 This Version in specific has GUI and a easier Better Look Than the .BAT Version 
